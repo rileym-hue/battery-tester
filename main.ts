@@ -10,5 +10,5 @@ input.onButtonPressed(Button.B, function () {
     basic.showNumber(voltage)
 })
 basic.forever(function () {
-    basic.showString("Batter Tester")
+    basic.showString("Battery Tester")
 })

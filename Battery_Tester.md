@@ -2,7 +2,7 @@
 ## First grab the show string block to the on start block.
 ```blocks
 basic.forever(function () {
-    basic.showString("Batter Tester")
+    basic.showString("Battery Tester")
 })
 ```
 ## Next drag the when A pressed block from the input over. 
